@@ -1,8 +1,6 @@
 # print("Hello, JH")
 
-def hello(a, b):
-    return a + b
+def hello():
+    print("Hello, JH")
 
-result = hello(1, 2)
-
-print(result)
+hello()
